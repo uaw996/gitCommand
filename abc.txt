@@ -1,1 +1,2 @@
 all git commands 
+git init
